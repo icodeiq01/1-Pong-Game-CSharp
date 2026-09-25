@@ -16,6 +16,7 @@
 ## Update : I added 2 Labels in form to show scores for both player & computer.
 <img width="1366" height="674" alt="ppppp" src="https://github.com/user-attachments/assets/218d37cf-2290-4dfb-a778-5de1fee44a19" />
 
+
 <img width="547" height="352" alt="pppp" src="https://github.com/user-attachments/assets/333aa800-fe07-4434-aba1-72857f69988b" />
 
 
